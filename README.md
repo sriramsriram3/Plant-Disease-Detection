@@ -23,26 +23,6 @@ This project uses a dataset that was augmented from the original PlantVillage da
 - The dataset was created using offline augmentation to balance the classes and improve model training.
 - The original dataset can be accessed via [GitHub Repository](#).
 - Classes include various diseases affecting crops like apples, corn, grapes, and more.
-# Plant Disease Recognition System 🌿🔍
-
-
-## Project Structure
-```plaintext
-Plant-Disease-Recognition/
-├── data/
-│   ├── train/          # 70,295 training images categorized into 38 classes
-│   ├── validation/     # 17,572 validation images
-│   ├── test/           # 33 images for testing and prediction
-├── models/             # Pre-trained and custom models for disease detection
-├── src/                # Source code for the project
-│   ├── preprocessing.py  # Code for data preprocessing and augmentation
-│   ├── train.py          # Script to train the model
-│   ├── predict.py        # Code for prediction
-│   └── utils.py          # Utility functions for handling data and models
-├── requirements.txt     # Python dependencies
-├── app.py               # Main application file for the web interface
-└── README.md            # Project documentation
-
 
 ## Prerequisites
 Python 3.x
