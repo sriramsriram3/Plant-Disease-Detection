@@ -48,6 +48,7 @@ Prediction: Upload a test image using the web app or use the predict.py script f
 ## App Demo
 <img width="948" alt="cnnproject" src="https://github.com/user-attachments/assets/9a435334-068c-4ede-83d3-7a7ed5836455">
 
+
 ## Why Choose Us?
 Cutting-edge technology: We use advanced machine learning models for real-time disease detection.
 Fast and accurate: Quickly detect plant diseases with high accuracy, helping in early intervention and prevention.
