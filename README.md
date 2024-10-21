@@ -31,19 +31,22 @@ Flask or Streamlit (for the web application)
 OpenCV for image processing
 Any required libraries can be installed using requirements.txt.
 
-## installation
+## Installation
 
  pip install -r requirements.txt
 
-# Running the Web Application
+## Running the Web Application
 1. Start the web application :
-'bash
-python app.py
-2. Open a web browser and go to http://127.0.0.1:5000 to access the Plant Disease Recognition System.
+   'bash
+   python app.py
+3. Open a web browser and go to http://127.0.0.1:5000 to access the Plant Disease Recognition System.
 
 ## Dataset Usage
 Training the model: Use the train.py script to train a model on the dataset.
 Prediction: Upload a test image using the web app or use the predict.py script for batch prediction.
+
+## App Demo
+<img width="948" alt="cnnproject" src="https://github.com/user-attachments/assets/9a435334-068c-4ede-83d3-7a7ed5836455">
 
 ## Why Choose Us?
 Cutting-edge technology: We use advanced machine learning models for real-time disease detection.
