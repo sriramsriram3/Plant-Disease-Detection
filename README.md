@@ -37,7 +37,7 @@ Any required libraries can be installed using requirements.txt.
 
 ## Running the Web Application
 1. Start the web application :
-   'bash
+
    python app.py
 3. Open a web browser and go to http://127.0.0.1:5000 to access the Plant Disease Recognition System.
 
